@@ -1,0 +1,31 @@
+#icon {
+    top: 25px;
+    left: 200px;
+    width: 16px;
+    height: 16px;
+    margin-left: 150px;
+    opacity: 1;
+}
+
+#camera {
+    top: 25px;
+    margin-left: 500px;
+    width: 16px;
+    height: 16px;
+    opacity: 1;
+}
+
+
+#header {
+    top: 25px;
+    left: 0px;
+    width: 900px;
+    height: 25px;
+    opacity: 1;
+ 
+}
+
+#text { 
+    font-family: Palatino, Regular;
+    color: #006238;
+}

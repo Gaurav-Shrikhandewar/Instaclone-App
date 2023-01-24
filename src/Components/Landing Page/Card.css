@@ -1,0 +1,87 @@
+#card {
+    height: 320px;
+    border: 2px solid #707070;
+    margin-left: 220px;
+    margin-top: 30px;
+    margin-right: 220px;
+    border-radius: 10px;
+}
+
+#img-section { 
+    height: 210px;
+    /* width: 200px; */
+    border: 1px solid #707070;
+    margin-top: 3px;
+}
+
+#img-section img{
+    height: 100%;
+    width: 100%;
+}   
+
+#head1 { 
+    height: 25px;
+    display: flex;
+    column-gap: 2px;
+   
+}
+
+#like-section  {
+    margin-top: 2px;
+    height: 20px;
+    margin-bottom: 3px;
+}
+
+#foot  {   
+    margin-top: 15px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    /* border: 1px solid black;   */
+}
+
+#description {  
+    margin-top: 10px;
+    height: 4vh;
+    width: 40vw;
+    /* border: 1px solid black; */
+    margin-left: 3px;
+}
+
+#heart { 
+    height: 15px;
+    margin-left: 5px;
+}
+
+#share { 
+    height: 15px;
+    margin-left: 5px;
+}
+
+#date { 
+   margin-left: 310px;
+}
+
+#more-icon {
+    margin-left: 220px;
+    height: 5px;
+}
+
+
+#name { 
+    margin-top: 4px;
+    height: 4vh;
+    width: 20vw;
+    /* border: 1px solid black; */
+    margin-left: 3px;
+}
+
+#place { 
+    margin-top: 6px;
+    height: 4vh;
+    width: 20vw;
+    /* border: 1px solid black; */
+    margin-left: 3px;
+}
+
+
+
